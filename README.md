@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Chaurasia
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning App Development
 - 😄 Pronouns: He/Him
 
 <!---
